@@ -18,10 +18,33 @@ I am Julian Kaljuvee, a senior technology, data, and risk leader with over ten y
 
 Previous roles also include positions at UBS, HSBC, Standard Chartered Bank, and the London Stock Exchange Group, focusing on market risk management and quantitative analysis.
 
+### Startups
+
+- **Bondora.com** (2007 - Present): Co-founder / Non-executive advisor
+  - One of the four co-founders of a leading VC-backed consumer lending marketplace in the EU (over 800m EUR lent as of Jul-2023). Participated in defining company go-to-market and technology strategy, advised the management in seed, bridge, and Series A rounds (Valinor Capital, Global Founders Capital / Rocket Internet). Provided industry insights and advised on governance and strategy, including relevant market introductions.
+
+- **EstateGuru.co** (2014 - Present): Co-founder / Non-executive advisor
+  - One of the three co-founders of a leading VC-backed property bridge lending marketplace in the EU (over 700m EUR lent as of Jul-2023). Participated in defining company go-to-market and technology strategy, advised the management in seed, bridge, and Series A rounds (Speedinvest, Seedrs). Provided industry insights and advised on governance and strategy, including relevant market introductions.
+
+- **Investly.co** (2014 - Present): Co-founder / Non-executive advisor
+  - One of the two co-founders of a leading VC-backed SME invoice finance marketplace in the EU. Participated in defining company go-to-market and technology strategy, advised the management in seed, bridge, and pre-series A rounds (Speedinvest, Seedrs). Provided industry insights and advised on governance and strategy, including relevant market introductions.
+
+- **Landex.ai** (2021 - Present): Co-founder
+  - Co-founded the first land crowdfunding marketplace in Europe; successfully executed a crowdfunding round on Seedrs, defined product/technology/marketing strategy.
+
+- **Kanvas.ai** (2021 - Present): Co-founder
+  - Co-founded the first fine art marketplace in the Baltics and the first NFT Marketplace in the Nordics. Defined a technical proposal and received a grant from Tezos Foundation to implement. Defined and implemented a novel Art Market Index to provide analytics and transparency to the European fine art market.
+
+- **Seedrs.com** (2023 - Present): European Venture Partner (the Baltics)
+  - Working with Seedrs, the largest equity crowdfunding marketplace in the world, to identify successful fundraising candidates for a Seedrs fundraise (500k+ EUR) both equity and convertible side. Working with VCs / LPs to identify the best opportunities for secondary rounds via Seedrs Private Dealing Room.
+
+- **Paymium.com** (2018 - 2019): Advisor
+  - Advised on a successful token / ICO launch for the first French crypto exchange.
+
 ### Projects Portfolio
 
-- **Kanvas.ai Art Index**: [artindex.streamlit.app](https://artindex.streamlit.app)
-- **Landex Land Index**: [landinex.streamlit.app](https://landinex.streamlit.app)
+- [**Kanvas.ai Art Index**](https://artindex.streamlit.app)
+- [**Landex Land Index**](https://landinex.streamlit.app)
 
 
 ### Technical Skills
@@ -51,4 +74,4 @@ Previous roles also include positions at UBS, HSBC, Standard Chartered Bank, and
 
 ### Contact
 
-You can connect with me on [LinkedIn](https://www.linkedin.com/in/juliankaljuvee/) and check out my projects on [GitHub](https://github.com/kaljuvee).
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/juliankaljuvee/) or [X](https://x.com/jkaljuvee/) and check out my projects on [GitHub](https://github.com/kaljuvee).
