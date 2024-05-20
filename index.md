@@ -4,16 +4,16 @@ I am Julian Kaljuvee, a senior technology, data, and risk leader with over ten y
 
 #### Professional Experience
 
-- **Vaxart, Inc** (Jun 2023 - Present): Director of AI
+- **Vaxart, Inc** (Jun 2023 - Present): Director of AI 
   - Leading AI-driven drug design and manufacturing process optimization.
 
-- **PandaDoc / Denario** (Jan 2022 - Jun 2023): Head of AI / Data Science
+- **PandaDoc / Denario** (Jan 2022 - Jun 2023): Head of AI / CTO
   - Developed scalable technology architecture and implemented AI/ML models for credit, anomaly detection, and churn prediction.
 
-- **Nandos** (Jun 2020 - Dec 2021): Data Scientist (Contract)
+- **Nandos** (Jun 2020 - Dec 2021): Data Scientist
   - Supported sales forecasting and data infrastructure development for a major restaurant chain.
 
-- **DBRS Morningstar** (Jul 2019 - Jun 2020): Data Scientist (Contract)
+- **DBRS Morningstar** (Jul 2019 - Jun 2020): Data Scientist
   - Developed and deployed EU RMBS rating models and integrated with European Data Warehouse.
 
 Previous roles also include positions at UBS, HSBC, Standard Chartered Bank, and the London Stock Exchange Group, focusing on market risk management and quantitative analysis.
@@ -43,6 +43,7 @@ Previous roles also include positions at UBS, HSBC, Standard Chartered Bank, and
 
 ### Projects Portfolio
 
+- [**Predictive Trade**](https://predictivetrade.streamlit.app)
 - [**Kanvas.ai Art Index**](https://artindex.streamlit.app)
 - [**Landex Land Index**](https://landinex.streamlit.app)
 
