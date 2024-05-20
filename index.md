@@ -1,36 +1,53 @@
-## Welcome to GitHub Pages
+### Amout Me
 
-You can use the [editor on GitHub](https://github.com/kaljuvee/kaljuvee.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am Julian Kaljuvee, a senior technology, data, and risk leader with over ten years of experience in statistics, data science, and software/data/ML engineering. My expertise spans across financial services, semiconductors, and retail/FMCG domains.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Professional Experience
 
-### Markdown
+- **Vaxart, Inc** (Jun 2023 - Present): Director of AI
+  - Leading AI-driven drug design and manufacturing process optimization.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- **PandaDoc / Denario** (Jan 2022 - Jun 2023): Head of AI / Data Science
+  - Developed scalable technology architecture and implemented AI/ML models for credit, anomaly detection, and churn prediction.
 
-```markdown
-Syntax highlighted code block
+- **Nandos** (Jun 2020 - Dec 2021): Data Scientist (Contract)
+  - Supported sales forecasting and data infrastructure development for a major restaurant chain.
 
-# Header 1
-## Header 2
-### Header 3
+- **DBRS Morningstar** (Jul 2019 - Jun 2020): Data Scientist (Contract)
+  - Developed and deployed EU RMBS rating models and integrated with European Data Warehouse.
 
-- Bulleted
-- List
+Previous roles also include positions at UBS, HSBC, Standard Chartered Bank, and the London Stock Exchange Group, focusing on market risk management and quantitative analysis.
 
-1. Numbered
-2. List
+### Projects Portfolio
 
-**Bold** and _Italic_ and `Code` text
+- **Kanvas.ai Art Index**: [artindex.streamlit.app](https://artindex.streamlit.app)
+- **Landex Land Index**: [landinex.streamlit.app](https://landinex.streamlit.app)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Technical Skills
 
-### Jekyll Themes
+**Languages:**
+- Python, R, Java/Scala/Groovy
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kaljuvee/kaljuvee.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Cloud:**
+- AWS, Azure, Google Cloud Platform (GCP)
+
+**Databases/Big Data:**
+- PostgreSQL, Presto, Athena, Redshift, BigQuery, MongoDB, Databricks, Snowflake
+
+**Frameworks/DevOps:**
+- Kubernetes, Docker, Terraform
+
+**ML/AI Libraries:**
+- PyTorch, JAX, PyCaret, SciKit, SparkML, spaCy, FB Prophet; Foundational LLMs: OpenAI, Anthophic, LLama, Mistral
+
+**Visualization:**
+- Matplotlib, Seaborn, Plot.ly, Streamlit, Tableau, PowerBI, QuickSight, Looker, Metabase
+
+### Education
+
+- **Harvard University**, BS in Applied Mathematics and Economics
+- **Columbia University**, MS in Statistics and Probability Theory
 
 ### Support or Contact
 
