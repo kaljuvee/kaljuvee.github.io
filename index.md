@@ -49,6 +49,6 @@ Previous roles also include positions at UBS, HSBC, Standard Chartered Bank, and
 - **Harvard University**, BS in Applied Mathematics and Economics
 - **Columbia University**, MS in Statistics and Probability Theory
 
-### Support or Contact
+### Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/juliankaljuvee/) and check out my projects on [GitHub](https://github.com/kaljuvee).
