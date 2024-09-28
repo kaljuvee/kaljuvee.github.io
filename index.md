@@ -40,7 +40,7 @@ Previous roles also have included positions at Goldman Sachs, Morgean Stanley, J
 
 ### Startups
 - **[Mentastic](https://www.mentastic.me)** (2024 - Present): Co-founder / Chief AI Officer (CAIO)
-  - Part of a team building a multi-modal agentic AI platform to improve mental well being and to design interventsions
+  - Part of a team building a multi-modal agentic AI platform to improve mental well being and to design interventions.
 - **Bondora.com** (2007 - Present): Co-founder / Non-executive advisor
   - One of the four co-founders of a leading VC-backed consumer lending marketplace in the EU (over 800m EUR lent as of Jul-2023). Participated in defining company go-to-market and technology strategy, advised the management in seed, bridge, and Series A rounds (Valinor Capital, Global Founders Capital / Rocket Internet). Provided industry insights and advised on governance and strategy, including relevant market introductions.
 - **EstateGuru.co** (2014 - Present): Co-founder / Non-executive advisor
