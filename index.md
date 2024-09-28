@@ -4,54 +4,39 @@
 I am senior technology, data, and machine learning / AI professional with over ten years of experience in statistics, data science, and software/data/ML engineering. My expertise spans across financial services, semiconductors, health, biotech and retail/FMCG domains.
 
 #### Projects and Tools
-- **[Vaxart Manufacturing Analysis Tool - VMAT )](https://vmat.predictivelabs.ai)** - manufacturing analysis and bioreactor optimization tool for a US vaccine biopharma Vaxart [(NASDAQ:VXRT](https://www.vaxart.com). 
-- **Artindex**: Description placeholder. [Visit project](#)
-- **dataguru**: Description placeholder. [Visit project](#)
-- **finespresso**: Description placeholder. [Visit project](#)
-- **incident-analysis**: Description placeholder. [Visit project](#)
-- **incidents-graphrag**: Description placeholder. [Visit project](#)
-- **ipogate**: Description placeholder. [Visit project](#)
-- **jobserve**: Description placeholder. [Visit project](#)
-- **landex**: Description placeholder. [Visit project](#)
-- **legalen**: Description placeholder. [Visit project](#)
-- **longevity-supplements**: Description placeholder. [Visit project](#)
-- **macrohive**: Description placeholder. [Visit project](#)
-- **macrohive-code**: Description placeholder. [Visit project](#)
-- **mentastic**: Description placeholder. [Visit project](#)
-- **mentastic-api**: Description placeholder. [Visit project](#)
-- **mentastic-demo**: Description placeholder. [Visit project](#)
-- **mmg**: Description placeholder. [Visit project](#)
-- **mmg-static**: Description placeholder. [Visit project](#)
-- **opticonomy-pdme**: Description placeholder. [Visit project](#)
-- **pdme-arena**: Description placeholder. [Visit project](#)
-- **pdme-demo**: Description placeholder. [Visit project](#)
-- **predictivelabs**: Description placeholder. [Visit project](#)
-- **predictivetrade**: Description placeholder. [Visit project](#)
-- **sell-side-research-public**: Description placeholder. [Visit project](#)
-- **smartfab**: Description placeholder. [Visit project](#)
-- **smartfab-dana**: Description placeholder. [Visit project](#)
-- **smartfab-flow**: Description placeholder. [Visit project](#)
-- **smartfab-modeling**: Description placeholder. [Visit project](#)
-- **temp**: Description placeholder. [Visit project](#)
-- **tokenrade**: Description placeholder. [Visit project](#)
-- **transcriber**: Description placeholder. [Visit project](#)
-
+- **[Vaxart Manufacturing Analysis Tool - VMAT )](https://vmat.predictivelabs.ai)** - manufacturing analysis and bioreactor optimization tool for a US vaccine biopharma Vaxart [(NASDAQ:VXRT)](https://www.vaxart.com). 
+- **Art Index**: Description placeholder. [Visit project](#)
+- **Land Index**: Description placeholder. [Visit project](#)
+- **DataGuru**: Description placeholder. [Visit project](#)
+- **Finespresso**: Description placeholder. [Visit project](#)
+- **IPOGate**: Description placeholder. [Visit project](#)
+- **LegaGen**: Description placeholder. [Visit project](#)
+- **Longevity Supplements**: Description placeholder. [Visit project](#)
+- **Macrohive**: Description placeholder. [Visit project](#)
+- **Mentastic**: Description placeholder. [Visit project](#)
+- **My Medical Gateway**: Description placeholder. [Visit project](#)
+- **PDME Arana**: Description placeholder. [Visit project](#)
+- **Predictivetrade**: Description placeholder. [Visit project](#)
+- **Tokenrade**: Description placeholder. [Visit project](#)
+- **Transcriber**: Description placeholder. [Visit project](#)
+- **Incident Analysis**: Description placeholder. [Visit project](#)
+- **Incidents GraphRAG**: Description placeholder. [Visit project](#)
   
 #### Professional Experience
 
-- **Vaxart, Inc** (Jun 2023 - Present): Director of AI 
-  - Leading AI-driven drug design and manufacturing process optimization.
-
-- **PandaDoc / Denario** (Jan 2022 - Jun 2023): Head of AI / CTO
-  - Developed scalable technology architecture and implemented AI/ML models for credit, anomaly detection, and churn prediction.
-
-- **Nandos** (Jun 2020 - Dec 2021): Data Scientist
-  - Supported sales forecasting and data infrastructure development for a major restaurant chain.
-
-- **DBRS Morningstar** (Jul 2019 - Jun 2020): Data Scientist
-  - Developed and deployed EU RMBS rating models and integrated with European Data Warehouse.
-
-Previous roles also include positions at UBS, HSBC, Standard Chartered Bank, and the London Stock Exchange Group, focusing on market risk management and quantitative analysis.
+- **[Predictive Labs Ltd]**(https://www.predictivelabs.co.uk) (Mar 2020 - Present): AI / ML Engineer / Data Scientist 
+  Selected projects / clients: 
+  - Microsoft (NASDAQ: MSFT): Implementing GenAI enteprise use cases, such as RAG with Microsoft's European clients, including model evaluation and fine tuning.
+  - Opticonomy (www.opticonomy.com) – developing a Prompt Driven Model Evaluation (PDME) engine for deep learning / LLM models (incl OpenAI, Gemini, Anthropic, HuggingFace) based on metrics such as log probabilities and perplexity
+  - Vaxart (NASDAQ:VXRT, www.vaxart.com) – building bio AI and data science models for a US publicly traded biotech, including manufacturing optimization and using generative AI to drive insights
+  - Denario / Pandadoc (www.pandadoc.com) - pre series-A Fintech in AI / ML; B2B payments, embedded finance and revenue-based financing (RBF) space. Deployed LLMs RAGs for unstructured document processing
+  - Worldremit (www.worldremit.com) - revenue / sales forecasting, cloud migration, reconciliation of EOD and EOM finance activities for a global Fintech
+  - IKEA (www.ikea.com) - data warehouse for group wide KPIs and business strategy planning for IKEA / INGKA group
+  - Nandos, (www.nandos.co.uk) - sales / demand forecasting, data infrastructure development / data lake, POS, loyalty, rota, weather, wifi and geolocation and delivery data integration for a major restaurant chain
+  - Nomad Foods, (http://www.nomadfoods.com) - developed and productionised media / marketing mix model (MMM) based on the industry standard Nielsen model to measure advertising / media effectiveness spend (ad stock decay, competitor data) for the largest frozen-food / FMCG retailer in Europe, marketing channels
+  - ARM Holdings, (http://www.arm.com) - development and productionisation of demand forecasting / royalty and non-royalty revenue prediction model based on external (alternative) data sets for a leading semiconductor design and manufacturing
+  - 
+Previous roles also have included positions at Goldman Sachs, Morgean Stanley, JP Morgan, UBS, HSBC, Standard Chartered Bank, the London Stock Exchange Group, focusing on market risk management and quantitative analysis.
 
 ### Startups
 
