@@ -39,7 +39,7 @@ I am senior technology, data, and machine learning / AI professional with over t
 Previous roles also have included positions at Goldman Sachs, Morgean Stanley, JP Morgan, UBS, HSBC, Standard Chartered Bank, the London Stock Exchange Group, focusing on market risk management and quantitative analysis.
 
 ### Startups
-- **[Mentastic](https://www.mentastic.me** (2024 - Present): Co-founder / Chief AI Officer (CAIO)
+- **[Mentastic](https://www.mentastic.me)** (2024 - Present): Co-founder / Chief AI Officer (CAIO)
   - Part of a team building a multi-modal agentic AI platform to improve mental well being and to design interventsions
 - **Bondora.com** (2007 - Present): Co-founder / Non-executive advisor
   - One of the four co-founders of a leading VC-backed consumer lending marketplace in the EU (over 800m EUR lent as of Jul-2023). Participated in defining company go-to-market and technology strategy, advised the management in seed, bridge, and Series A rounds (Valinor Capital, Global Founders Capital / Rocket Internet). Provided industry insights and advised on governance and strategy, including relevant market introductions.
