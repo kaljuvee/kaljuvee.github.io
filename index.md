@@ -24,7 +24,7 @@ I am senior technology, data, and machine learning / AI professional with over t
   
 #### Professional Experience
 
-- **[Predictive Labs Ltd]**(https://www.predictivelabs.co.uk) (Mar 2020 - Present): AI / ML Engineer / Data Scientist 
+- **[Predictive Labs Ltd](https://www.predictivelabs.co.uk)** (Mar 2020 - Present): AI / ML Engineer / Data Scientist 
   Selected projects / clients: 
   - Microsoft (NASDAQ: MSFT): Implementing GenAI enteprise use cases, such as RAG with Microsoft's European clients, including model evaluation and fine tuning.
   - Opticonomy (www.opticonomy.com) – developing a Prompt Driven Model Evaluation (PDME) engine for deep learning / LLM models (incl OpenAI, Gemini, Anthropic, HuggingFace) based on metrics such as log probabilities and perplexity
