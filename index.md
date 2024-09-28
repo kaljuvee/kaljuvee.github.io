@@ -55,13 +55,6 @@ Previous roles also have included positions at Goldman Sachs, Morgean Stanley, J
 - **Kanvas.ai** (2021 - Present): Co-founder
   - Co-founded the first fine art marketplace in the Baltics and the first NFT Marketplace in the Nordics. Defined a technical proposal and received a grant from Tezos Foundation to implement. Defined and implemented a novel Art Market Index to provide analytics and transparency to the European fine art market.
 
-- **Seedrs.com** (2023 - Present): European Venture Partner (the Baltics)
-  - Working with Seedrs, the largest equity crowdfunding marketplace in the world, to identify successful fundraising candidates for a Seedrs fundraise (500k+ EUR) both equity and convertible side. Working with VCs / LPs to identify the best opportunities for secondary rounds via Seedrs Private Dealing Room.
-
-- **Paymium.com** (2018 - 2019): Advisor
-  - Advised on a successful token / ICO launch for the first French crypto exchange.
-
-
 ### Education
 
 - **Harvard University**, BS in Applied Mathematics and Economics
