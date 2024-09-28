@@ -27,7 +27,7 @@ I am senior technology, data, and machine learning / AI professional with over t
 
 - **[Predictive Labs Ltd](https://www.predictivelabs.co.uk)** (Mar 2020 - Present): AI / ML Engineer / Data Scientist 
   Selected projects / clients: 
-  - **Microsoft (NASDAQ: MSFT)**: Implementing GenAI enteprise use cases, such as RAG with Microsoft's global clients, including model evaluation and fine tuning.
+  - **[Microsoft](https://www.microsoft.com**) (NASDAQ: MSFT) - implemented GenAI enteprise use cases, such as RAG with Microsoft's global clients, including model evaluation and fine tuning.
   - **[Opticonomy](https://www.opticonomy.com)** – developing a Prompt Driven Model Evaluation (PDME) engine for deep learning / LLM models (incl OpenAI, Gemini, Anthropic, HuggingFace) based on metrics such as log probabilities and perplexity.
   - **[Vaxart (NASDAQ:VXRT)](https://www.vaxart.com)** – building bio AI and data science models for a US publicly traded biotech, including manufacturing optimization and using generative AI to drive insights.
   - **[Denario / Pandadoc](https://www.pandadoc.com)** - pre series-A Fintech in AI / ML; B2B payments, embedded finance and revenue-based financing (RBF) space. Deployed LLMs RAGs for unstructured document processing.
