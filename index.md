@@ -16,6 +16,7 @@ I am senior technology, data, and machine learning / AI professional with over t
 - **[Predictivetrade](https://predictivetrade.streamlit.app)** - quantitative financial analysis and trading simulation tool.
 - **[Tokenrade](https://tokenrade.streamlit.app)** - quantitative financial analysis and trading simulation tool for crypto markets.
 - **[DataGuru](https://dataguru.streamlit.app)** - simple tool to perform typical Excel operations such as data merging.
+- **[SQL God](https://sql-god.streamlit.app)** - natural language SQL generator that inspects your database schema and assists with SQL queries.
 - **[Transcriber](https://transcriber.streamlit.app)** - simple audio transcriber.
 - **[Youtube summarizer](https://ytabstract.streamlit.app)** - simple tool to summarize Youtube content.
 - **[Incident Analysis](https://incident-analysis.streamlit.app)** - RAG fine tuning framework using synthetic safety incident data.
