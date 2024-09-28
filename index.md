@@ -4,7 +4,7 @@
 I am senior technology, data, and machine learning / AI professional with over ten years of experience in statistics, data science, and software/data/ML engineering. My expertise spans across financial services, semiconductors, health, biotech and retail/FMCG domains.
 
 #### Projects and Tools
-- **[Vaxart Manufacturing Analysis Tool - VMAT (NASDAQ:VXRT)][Visit project](https://vmat.predictivelabs.ai)**: Advanced data science tooling for vaccine manufacturing bioreactor optimization. 
+- **[Vaxart Manufacturing Analysis Tool - VMAT (NASDAQ:VXRT)](https://vmat.predictivelabs.ai)**: Advanced data science tooling for vaccine manufacturing bioreactor optimization. 
 - **Artindex**: Description placeholder. [Visit project](#)
 - **dataguru**: Description placeholder. [Visit project](#)
 - **finespresso**: Description placeholder. [Visit project](#)
