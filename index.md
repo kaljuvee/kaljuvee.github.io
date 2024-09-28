@@ -10,7 +10,7 @@ I am senior technology, data, and machine learning / AI professional with over t
 - **[Finespresso](https://finespresso.streamlit.app)** - AI-driven financial news alerts for capital markets.
 - **[Longevity Supplements](https://longevity-supplements.streamlit.app)** - visualization tool for longevity supplement efficacy.
 - **[Macrohive News LLM](https://macrohive.streamlit.app)** - AI-generated signals based on macroeconomic news.
-- **[Mentastic](https://demo.mentastic.me)**: Description placeholder.
+- **[Mentastic](https://demo.mentastic.me)** - AI-driven multi-modal platform for mental wellbeing and interventions.
 - **[My Medical Gateway](https://provider.mymedicalgateway.com/home)** - medical travel marketplace for elective surgery.
 - **[PDME Arena](https://pdme-arena.streamlit.app)** - prompt-driven LLM evaluation tool.
 - **[Predictivetrade](https://predictivetrade.streamlit.app)** - quantitative financial analysis and trading simulation tool.
