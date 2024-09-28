@@ -35,7 +35,7 @@ I am senior technology, data, and machine learning / AI professional with over t
   - Nandos, (www.nandos.co.uk) - sales / demand forecasting, data infrastructure development / data lake, POS, loyalty, rota, weather, wifi and geolocation and delivery data integration for a major restaurant chain
   - Nomad Foods, (http://www.nomadfoods.com) - developed and productionised media / marketing mix model (MMM) based on the industry standard Nielsen model to measure advertising / media effectiveness spend (ad stock decay, competitor data) for the largest frozen-food / FMCG retailer in Europe, marketing channels
   - ARM Holdings, (http://www.arm.com) - development and productionisation of demand forecasting / royalty and non-royalty revenue prediction model based on external (alternative) data sets for a leading semiconductor design and manufacturing
-  - 
+
 Previous roles also have included positions at Goldman Sachs, Morgean Stanley, JP Morgan, UBS, HSBC, Standard Chartered Bank, the London Stock Exchange Group, focusing on market risk management and quantitative analysis.
 
 ### Startups
