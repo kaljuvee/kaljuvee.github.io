@@ -1,7 +1,42 @@
+
 ### About Me
 
-I am Julian Kaljuvee, a senior technology, data, and risk leader with over ten years of experience in statistics, data science, and software/data/ML engineering. My expertise spans across financial services, semiconductors, and retail/FMCG domains.
+I am senior technology, data, and machine learning / AI professional with over ten years of experience in statistics, data science, and software/data/ML engineering. My expertise spans across financial services, semiconductors, health, biotech and retail/FMCG domains.
 
+#### Projects and Tools
+- **Vaxart Manufacturing Analysis Tool - VMAT (NASDAQ:VXRT)**: Advanced data science tooling for vaccine manufacturing bioreactor optimization. [Visit project](https://vmat.predictivelabs.ai)
+- **Artindex**: Description placeholder. [Visit project](#)
+- **dataguru**: Description placeholder. [Visit project](#)
+- **finespresso**: Description placeholder. [Visit project](#)
+- **incident-analysis**: Description placeholder. [Visit project](#)
+- **incidents-graphrag**: Description placeholder. [Visit project](#)
+- **ipogate**: Description placeholder. [Visit project](#)
+- **jobserve**: Description placeholder. [Visit project](#)
+- **landex**: Description placeholder. [Visit project](#)
+- **legalen**: Description placeholder. [Visit project](#)
+- **longevity-supplements**: Description placeholder. [Visit project](#)
+- **macrohive**: Description placeholder. [Visit project](#)
+- **macrohive-code**: Description placeholder. [Visit project](#)
+- **mentastic**: Description placeholder. [Visit project](#)
+- **mentastic-api**: Description placeholder. [Visit project](#)
+- **mentastic-demo**: Description placeholder. [Visit project](#)
+- **mmg**: Description placeholder. [Visit project](#)
+- **mmg-static**: Description placeholder. [Visit project](#)
+- **opticonomy-pdme**: Description placeholder. [Visit project](#)
+- **pdme-arena**: Description placeholder. [Visit project](#)
+- **pdme-demo**: Description placeholder. [Visit project](#)
+- **predictivelabs**: Description placeholder. [Visit project](#)
+- **predictivetrade**: Description placeholder. [Visit project](#)
+- **sell-side-research-public**: Description placeholder. [Visit project](#)
+- **smartfab**: Description placeholder. [Visit project](#)
+- **smartfab-dana**: Description placeholder. [Visit project](#)
+- **smartfab-flow**: Description placeholder. [Visit project](#)
+- **smartfab-modeling**: Description placeholder. [Visit project](#)
+- **temp**: Description placeholder. [Visit project](#)
+- **tokenrade**: Description placeholder. [Visit project](#)
+- **transcriber**: Description placeholder. [Visit project](#)
+
+  
 #### Professional Experience
 
 - **Vaxart, Inc** (Jun 2023 - Present): Director of AI 
@@ -41,32 +76,6 @@ Previous roles also include positions at UBS, HSBC, Standard Chartered Bank, and
 - **Paymium.com** (2018 - 2019): Advisor
   - Advised on a successful token / ICO launch for the first French crypto exchange.
 
-### Projects Portfolio
-
-- [**Predictive Trade**](https://predictivetrade.streamlit.app)
-- [**Kanvas.ai Art Index**](https://artindex.streamlit.app)
-- [**Landex Land Index**](https://landinex.streamlit.app)
-
-
-### Technical Skills
-
-**Languages:**
-- Python, R, Java/Scala/Groovy
-
-**Cloud:**
-- AWS, Azure, Google Cloud Platform (GCP)
-
-**Databases/Big Data:**
-- PostgreSQL, Presto, Athena, Redshift, BigQuery, MongoDB, Databricks, Snowflake
-
-**Frameworks/DevOps:**
-- Kubernetes, Docker, Terraform
-
-**ML/AI Libraries:**
-- PyTorch, JAX, PyCaret, SciKit, SparkML, spaCy, FB Prophet; Foundational LLMs: OpenAI, Anthophic, LLama, Mistral
-
-**Visualization:**
-- Matplotlib, Seaborn, Plot.ly, Streamlit, Tableau, PowerBI, QuickSight, Looker, Metabase
 
 ### Education
 
@@ -75,4 +84,4 @@ Previous roles also include positions at UBS, HSBC, Standard Chartered Bank, and
 
 ### Contact
 
-You can connect with me on [LinkedIn](https://www.linkedin.com/in/juliankaljuvee/) or [X](https://x.com/jkaljuvee/) and check out my projects on [GitHub](https://github.com/kaljuvee).
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/juliankaljuvee/) or [X](https://x.com/jkaljuvee) and check out my projects on [GitHub](https://github.com/kaljuvee).
