@@ -1,4 +1,4 @@
-### Amout Me
+### About Me
 
 I am Julian Kaljuvee, a senior technology, data, and risk leader with over ten years of experience in statistics, data science, and software/data/ML engineering. My expertise spans across financial services, semiconductors, and retail/FMCG domains.
 
