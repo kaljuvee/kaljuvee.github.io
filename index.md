@@ -17,7 +17,7 @@ I am senior technology, data, and machine learning / AI professional with over t
 - **[Tokenrade](https://tokenrade.streamlit.app)** - quantitative financial analysis and trading simulation tool for crypto markets.
 - **[DataGuru](https://dataguru.streamlit.app)** - simple tool to perform typical Excel operations such as data merging.
 - **[SQL God](https://sql-god.streamlit.app)** - natural language SQL generator that inspects your database schema and assists with SQL queries.
-- **[MMM Analysis Tool](https://mmm-analysis.streamlit.app)** - Marketing Mix Model (MMM) analysis tool.
+- **[MMM Analysis Tool](https://mmm-analyser.streamlit.app)** - Marketing Mix Model (MMM) analysis tool.
 - **[Metropolitan Hastings vs Baysian Regression Demo](https://mhmc-demo.streamlit.app/)** - an interactive application demonstrates two key concepts in Bayesian statistics: (i) **Metropolis-Hastings Sampling** - visualizes how MCMC can sample from complex probability distributions; (ii) **Bayesian Linear Regression** - shows how MCMC can be used for probabilistic inference in regression problems..
 - **[Transcriber](https://transcriber.streamlit.app)** - simple audio transcriber.
 - **[Youtube summarizer](https://ytabstract.streamlit.app)** - simple tool to summarize Youtube content.
