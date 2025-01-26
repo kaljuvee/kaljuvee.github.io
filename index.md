@@ -10,7 +10,7 @@ I am senior technology, data, and machine learning / AI professional with over t
 - **[Finespresso](https://finespresso.streamlit.app)** - AI-driven financial news alerts for capital markets.
 - **[Longevity Supplements](https://longevity-supplements.streamlit.app)** - visualization tool for longevity supplement efficacy.
 - **[Macrohive News LLM](https://macrohive.streamlit.app)** - AI-generated signals based on macroeconomic news.
-- **[Mentastic](https://demo.mentastic.me)** - AI-driven multi-modal platform for mental wellbeing and interventions.
+- **[Mentastic](https://www.mentastic.me)** - AI-driven multi-modal platform for mental wellbeing and interventions.
 - **[My Medical Gateway](https://provider.mymedicalgateway.com/home)** - medical travel marketplace for elective surgery.
 - **[PDME Arena](https://pdme-arena.streamlit.app)** - prompt-driven LLM evaluation tool.
 - **[Predictivetrade](https://predictivetrade.streamlit.app)** - quantitative financial analysis and trading simulation tool.
@@ -40,7 +40,14 @@ I am senior technology, data, and machine learning / AI professional with over t
   - **[Nandos](https://www.nandos.co.uk)** - sales / demand forecasting, data infrastructure development / data lake, POS, loyalty, rota, weather, wifi and geolocation and delivery data integration for a major restaurant chain.
   - **[Nomad Foods](https://www.nomadfoods.com)** - developed and productionised media / marketing mix model (MMM) based on the industry standard Nielsen model to measure advertising / media effectiveness spend (ad stock decay, competitor data) for the largest frozen-food / FMCG retailer in Europe, marketing channels.
 
-Previous roles also have included positions at Goldman Sachs, Morgan Stanley, JP Morgan, UBS, HSBC, Standard Chartered Bank, the London Stock Exchange Group, focusing on market risk management and quantitative analysis.
+Previous roles in quantitative analysis, trading and risk management included positions at leading financial services companies such as:
+- **[Goldman Sachs](https://www.gs.com)** 
+- **[Morgan Stanley](https://www.ms.com)**  
+- **[JP Morgan](https://www.jpmorgan.com)**  
+- **[UBS](https://www.ubs.com)**  
+- **[HSBC](https://www.hsbc.com)**  
+- **[Standard Chartered Bank](https://www.sc.com)**  
+- **[London Stock Exchange Group](https://www.lseg.com)**  
 
 ### Startups
 - **[Mentastic](https://www.mentastic.me)** (2024 - Present): Co-founder / Chief AI Officer (CAIO)
