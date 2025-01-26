@@ -23,7 +23,7 @@ I am senior technology, data, and machine learning / AI professional with over t
 - **[Youtube summarizer](https://ytabstract.streamlit.app)** - simple tool to summarize Youtube content.
 - **[Incident Analysis](https://incident-analysis.streamlit.app)** - RAG fine tuning framework using synthetic safety incident data.
 - **[Incidents GraphRAG](https://incidents-graphrag.streamlit.app)** - Microsoft GraphRAG based analysis using synthetic safety incident data.
-- **[LegaGen](https://legagen.streamlit.app)** - a simple tool to analyse and adopt legal document content.
+- **[LegalGen](https://legalgen.streamlit.app)** - a simple tool to analyse and adopt legal document content.
 - **[IPOGate](https://ipogate.streamlit.app)** - platform to generate IPO documentation / prospectus samples.
 
 #### Professional Experience
