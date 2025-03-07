@@ -1,8 +1,3 @@
-
-### About Me
-
-I am senior technology, data, and machine learning / AI professional with over ten years of experience in statistics, data science, and software/data/ML engineering. My expertise spans across financial services, semiconductors, manufacturing, health, biotech and retail/FMCG domains.
-
 ### Professional Bio
 
 Julian Kaljuvee is a Director of Predictive Labs Ltd, an AI and Data Science consultancy, and has delivered several AI-focused projects for international clients across a wide range of sectors, including semiconductors (ARM Holdings, NASDAQ: ARM), biotech (Vaxart Inc., NASDAQ: VXRT), and financial services (London Stock Exchange Group, LSE: LSEG; Morningstar, NASDAQ: MORN), as well as Microsoft (NASDAQ: MSFT), among others.
