@@ -3,6 +3,16 @@
 
 I am senior technology, data, and machine learning / AI professional with over ten years of experience in statistics, data science, and software/data/ML engineering. My expertise spans across financial services, semiconductors, manufacturing, health, biotech and retail/FMCG domains.
 
+### Professional Bio
+
+Julian Kaljuvee is a Director of Predictive Labs Ltd, an AI and Data Science consultancy, and has delivered several AI-focused projects for international clients across a wide range of sectors, including semiconductors (ARM Holdings, NASDAQ: ARM), biotech (Vaxart Inc., NASDAQ: VXRT), and financial services (London Stock Exchange Group, LSE: LSEG; Morningstar, NASDAQ: MORN), as well as Microsoft (NASDAQ: MSFT), among others.
+
+Julian's professional background is in investment banking in New York and London (Goldman Sachs, Morgan Stanley, UBS, JPMorgan). He has also been active in the fintech startup sector, co-founding several of the first VC-backed lending marketplaces in Europe, including Bondora.com (consumer loans), EstateGuru (real estate loans), and Investly (invoice financing).
+
+Most recently, he has also become an advisor to Zuvu.ai, a blockchain-based AI agent marketplace.
+
+He holds a bachelor's degree in applied mathematics from Harvard University in Cambridge, Massachusetts, USA, and has studied probability theory and statistics at the master's level at Columbia University in New York, NY, USA.
+
 #### Projects and Tools
 - **[Vaxart Manufacturing Analysis Tool - VMAT](https://vmat.predictivelabs.ai)** - manufacturing analysis and bioreactor optimization tool for a US vaccine biopharma Vaxart [(NASDAQ:VXRT)](https://www.vaxart.com).
 - **[Art Index](https://artindex.streamlit.app)** - visualizing publicly available art auction prices globally.
