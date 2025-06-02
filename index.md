@@ -15,9 +15,10 @@ He holds a bachelor's degree in applied mathematics from Harvard University in C
 - **[ARM Holdings (NASDAQ: ARM)](https://www.arm.com)** - development and productionisation of demand forecasting / royalty and non-royalty revenue prediction model based on external (alternative) data sets for a leading semiconductor design and manufacturing.
 - **[Worldremit](https://www.worldremit.com)** - revenue / sales forecasting, cloud migration, reconciliation of EOD and EOM finance activities for a global Fintech.
 - **[IKEA](https://www.ikea.com)** - data warehouse for group wide KPIs and business strategy planning for IKEA / INGKA group.
-- **[Nandos](https://www.nandos.co.uk)** - sales / demand forecasting, data infrastructure development / data lake, POS, loyalty, rota, weather, wifi and geolocation and delivery data integration for a major restaurant chain.
 - **[Nomad Foods](https://www.nomadfoods.com)** - developed and productionised media / marketing mix model (MMM) based on the industry standard Nielsen model to measure advertising / media effectiveness spend (ad stock decay, competitor data) for the largest frozen-food / FMCG retailer in Europe, marketing channels.
-
+- **[Nandos](https://www.nandos.co.uk)** - sales / demand forecasting, data infrastructure development / data lake, POS, loyalty, rota, weather, wifi and geolocation and delivery data integration for a major restaurant chain.
+- **[DBRS Morningstar](https://www.morningstar.com)** - supporting development and deployment of EU RMBS rating models for a leading global financial analytics and ratings provider integrating with European Data Warehouse (over 2bn records); model building and deployment: (i) data analysis / visualisation, (ii) data cleansing and transformation (data sets with over 100m records), (iii) model development, feature engineering and model evaluation with statsmodels, Logistic Regression, GAM and XGBoost, (iv) model deployment and productionisation with MLFlow (v) presentations to business stakeholders
+    
 Previous roles in quantitative analysis, trading and risk management included positions at leading financial services companies such as:
 - **[Goldman Sachs](https://www.gs.com)** 
 - **[Morgan Stanley](https://www.ms.com)**  
