@@ -10,13 +10,13 @@ He holds a bachelor's degree in applied mathematics from Harvard University in C
 
 - **[Predictive Labs Ltd](https://www.predictivelabs.co.uk)** (Mar 2020 - Present): AI / ML Engineer / Data Scientist 
   Selected projects / clients: 
-  - **[Microsoft (NASDAQ: MSFT)](https://www.microsoft.com)** - implemented GenAI enteprise use cases, such as RAG with Microsoft's global clients, including model evaluation and fine tuning.
-  - **[Vaxart (NASDAQ:VXRT)](https://www.vaxart.com)** – building bio AI and data science models for a US publicly traded biotech, including manufacturing optimization and using generative AI to drive insights.
-  - **[ARM Holdings (NASDAQ: ARM)](https://www.arm.com)** - development and productionisation of demand forecasting / royalty and non-royalty revenue prediction model based on external (alternative) data sets for a leading semiconductor design and manufacturing.
-  - **[Worldremit](https://www.worldremit.com)** - revenue / sales forecasting, cloud migration, reconciliation of EOD and EOM finance activities for a global Fintech.
-  - **[IKEA](https://www.ikea.com)** - data warehouse for group wide KPIs and business strategy planning for IKEA / INGKA group.
-  - **[Nandos](https://www.nandos.co.uk)** - sales / demand forecasting, data infrastructure development / data lake, POS, loyalty, rota, weather, wifi and geolocation and delivery data integration for a major restaurant chain.
-  - **[Nomad Foods](https://www.nomadfoods.com)** - developed and productionised media / marketing mix model (MMM) based on the industry standard Nielsen model to measure advertising / media effectiveness spend (ad stock decay, competitor data) for the largest frozen-food / FMCG retailer in Europe, marketing channels.
+- **[Microsoft (NASDAQ: MSFT)](https://www.microsoft.com)** - implemented GenAI enteprise use cases, such as RAG with Microsoft's global clients, including model evaluation and fine tuning.
+- **[Vaxart (NASDAQ:VXRT)](https://www.vaxart.com)** – building bio AI and data science models for a US publicly traded biotech, including manufacturing optimization and using generative AI to drive insights.
+- **[ARM Holdings (NASDAQ: ARM)](https://www.arm.com)** - development and productionisation of demand forecasting / royalty and non-royalty revenue prediction model based on external (alternative) data sets for a leading semiconductor design and manufacturing.
+- **[Worldremit](https://www.worldremit.com)** - revenue / sales forecasting, cloud migration, reconciliation of EOD and EOM finance activities for a global Fintech.
+- **[IKEA](https://www.ikea.com)** - data warehouse for group wide KPIs and business strategy planning for IKEA / INGKA group.
+- **[Nandos](https://www.nandos.co.uk)** - sales / demand forecasting, data infrastructure development / data lake, POS, loyalty, rota, weather, wifi and geolocation and delivery data integration for a major restaurant chain.
+- **[Nomad Foods](https://www.nomadfoods.com)** - developed and productionised media / marketing mix model (MMM) based on the industry standard Nielsen model to measure advertising / media effectiveness spend (ad stock decay, competitor data) for the largest frozen-food / FMCG retailer in Europe, marketing channels.
 
 Previous roles in quantitative analysis, trading and risk management included positions at leading financial services companies such as:
 - **[Goldman Sachs](https://www.gs.com)** 
