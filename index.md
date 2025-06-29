@@ -31,6 +31,7 @@ Previous roles in quantitative analysis, trading and risk management included po
 
 #### Projects and Tools
 - **[Vaxart Manufacturing Analysis Tool - VMAT](https://vmat.predictivelabs.ai)** - manufacturing analysis and bioreactor optimization tool for a US vaccine biopharma Vaxart [(NASDAQ:VXRT)](https://www.vaxart.com).
+- **[ABC Kliima Product Catalogue Chat](https://abc-kliima-demo.streamlit.app)** - a simple chat demonstrating how one can query product catalogue on the fly.
 - **[Art Index](https://artindex.streamlit.app)** - visualizing publicly available art auction prices globally.
 - **[Land Index](https://landindex.streamlit.app)** - visualizing land prices in Estonia.
 - **[Finespresso](https://finespresso.streamlit.app)** - AI-driven financial news alerts for capital markets.
