@@ -30,18 +30,15 @@ Previous roles in quantitative analysis, trading and risk management included po
 
 
 #### Projects and Tools
-- **[Vaxart Manufacturing Analysis Tool - VMAT](https://vmat.predictivelabs.ai)** - manufacturing analysis and bioreactor optimization tool for a US vaccine biopharma Vaxart [(NASDAQ:VXRT)](https://www.vaxart.com).
+- **[Finespresso](https://research.finespresso.org)** - AI-driven financial news alerts for capital markets.
 - **[ABC Kliima Product Catalogue Chat](https://abc-kliima-ai.streamlit.app)** - a simple chat demonstrating how one can query product catalogue on the fly.
 - **[Art Index](https://artindex.streamlit.app)** - visualizing publicly available art auction prices globally.
 - **[Land Index](https://landindex.streamlit.app)** - visualizing land prices in Estonia.
-- **[Finespresso](https://finespresso.streamlit.app)** - AI-driven financial news alerts for capital markets.
 - **[Longevity Supplements](https://longevity-supplements.streamlit.app)** - visualization tool for longevity supplement efficacy.
 - **[Macrohive News LLM](https://macrohive.predictivelabs.ai)** - AI-generated signals based on macroeconomic news.
 - **[Mentastic](https://www.mentastic.me)** - AI-driven multi-modal platform for mental wellbeing and interventions.
-- **[My Medical Gateway](https://provider.mymedicalgateway.com/home)** - medical travel marketplace for elective surgery.
+- **[My Medical Gateway](https://www.mymedicalgateway.com/home)** - medical travel marketplace for elective surgery.
 - **[PDME Arena](https://pdme-arena.streamlit.app)** - prompt-driven LLM evaluation tool.
-- **[Predictivetrade](https://predictivetrade.streamlit.app)** - quantitative financial analysis and trading simulation tool.
-- **[Tokenrade](https://tokenrade.streamlit.app)** - quantitative financial analysis and trading simulation tool for crypto markets.
 - **[DataGuru](https://dataguru.streamlit.app)** - simple tool to perform typical Excel operations such as data merging.
 - **[SQL God](https://sql-god.streamlit.app)** - natural language SQL generator that inspects your database schema and assists with SQL queries.
 - **[MMM Analysis Tool](https://mmm-analyser.streamlit.app)** - Marketing Mix Model (MMM) analysis tool.
@@ -49,9 +46,9 @@ Previous roles in quantitative analysis, trading and risk management included po
 - **[Transcriber](https://transcriber.streamlit.app)** - simple audio transcriber.
 - **[Youtube summarizer](https://ytabstract.streamlit.app)** - simple tool to summarize Youtube content.
 - **[Incident Analysis](https://incident-analysis.streamlit.app)** - RAG fine tuning framework using synthetic safety incident data.
-- **[Incidents GraphRAG](https://incidents-graphrag.streamlit.app)** - Microsoft GraphRAG based analysis using synthetic safety incident data.
 - **[LegalGen](https://legalgen.streamlit.app)** - a simple tool to analyse and adopt legal document content.
 - **[IPOGate](https://ipogate.streamlit.app)** - platform to generate IPO documentation / prospectus samples.
+- **[Vaxart Manufacturing Analysis Tool - VMAT](https://vmat.predictivelabs.ai)** - manufacturing analysis and bioreactor optimization tool for a US vaccine biopharma Vaxart [(NASDAQ:VXRT)](https://www.vaxart.com).
 
 ### Startups
 - **[Mentastic](https://www.mentastic.me)** (2024 - Present): Co-founder / Chief AI Officer (CAIO)
