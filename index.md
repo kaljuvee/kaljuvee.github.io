@@ -44,7 +44,7 @@ Previous roles in quantitative analysis, trading and risk management included po
 - **[Vaxart Manufacturing Analysis Tool - VMAT](https://vmat.predictivelabs.ai)** - manufacturing analysis and bioreactor optimization tool for a US vaccine biopharma Vaxart [(NASDAQ:VXRT)](https://www.vaxart.com).
 - **[Longevity Supplements](https://longevity-supplements.streamlit.app)** - visualization tool for longevity supplement efficacy.
 - **[Personal Health Monitoring System](https://kaljuvee-phms.streamlit.app/)** - sample platform to provide real-time health monitoring and personalized interventions using advanced AI technology, integrating data from various sources to provide comprehensive health insights and timely alerts.
--   
+ 
 ## Insurance Claim and Invoice Fraud Detector
 
 - **[Insurance Fraud Detector](https://if-insurance-demo.streamlit.app/)** - processes insurance claims and invoices to detect possible fraud.
@@ -53,7 +53,7 @@ Previous roles in quantitative analysis, trading and risk management included po
 
 - **[ABC Kliima Product Catalogue Chat](https://abc-kliima-ai.streamlit.app)** - a simple chat demonstrating how one can query product catalogue on the fly.
 - **[Furniture Compay AI CRM](https://kalla-moobel-ai-demo.streamlit.app/)** - this application helps furniture manufacturers automate the RFQ (Request for Quote) process by analyzing project specifications and generating detailed cost estimates.
-- 
+
 ## Generative AI and ML
 
 - **[PDME Arena](https://pdme-arena.streamlit.app)** - prompt-driven LLM evaluation tool.
