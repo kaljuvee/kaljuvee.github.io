@@ -1,4 +1,4 @@
-### Professional Bio
+## Professional Bio
 
 Julian Kaljuvee is a Director of Predictive Labs Ltd, an AI and Data Science consultancy, and has delivered several AI-focused projects for international clients across a wide range of sectors, including semiconductors (ARM Holdings, NASDAQ: ARM), biotech (Vaxart Inc., NASDAQ: VXRT), and financial services (London Stock Exchange Group, LSE: LSEG; Morningstar, NASDAQ: MORN), as well as Microsoft (NASDAQ: MSFT), among others.
 
@@ -6,7 +6,7 @@ Julian's professional background is in investment banking in New York and London
 
 He holds a bachelor's degree in applied mathematics from Harvard University in Cambridge, Massachusetts, USA, and has studied probability theory and statistics at the master's level at Columbia University in New York, NY, USA.
 
-#### Professional Experience
+### Professional Experience
 
 - **[Predictive Labs Ltd](https://www.predictivelabs.co.uk)** (Mar 2020 - Present): AI / ML Engineer / Data Scientist 
   Selected projects / clients: 
@@ -29,15 +29,33 @@ Previous roles in quantitative analysis, trading and risk management included po
 - **[London Stock Exchange Group](https://www.lseg.com)**  
 
 
-#### Projects and Tools
+### Projects and Tools
+#### Finance
 - **[Finespresso](https://research.finespresso.org)** - AI-driven financial news alerts for capital markets.
-- **[ABC Kliima Product Catalogue Chat](https://abc-kliima-ai.streamlit.app)** - a simple chat demonstrating how one can query product catalogue on the fly.
+- **[IPOGate](https://ipogate.streamlit.app)** - platform to generate IPO documentation / prospectus samples.
+- **[Macrohive News LLM](https://macrohive.predictivelabs.ai)** - AI-generated signals based on macroeconomic news.
 - **[Art Index](https://artindex.streamlit.app)** - visualizing publicly available art auction prices globally.
 - **[Land Index](https://landindex.streamlit.app)** - visualizing land prices in Estonia.
+  
+## Biotech and Healthtech
+
 - **[Longevity Supplements](https://longevity-supplements.streamlit.app)** - visualization tool for longevity supplement efficacy.
-- **[Macrohive News LLM](https://macrohive.predictivelabs.ai)** - AI-generated signals based on macroeconomic news.
 - **[Mentastic](https://www.mentastic.me)** - AI-driven multi-modal platform for mental wellbeing and interventions.
-- **[My Medical Gateway](https://www.mymedicalgateway.com/home)** - medical travel marketplace for elective surgery.
+- **[Vaxart Manufacturing Analysis Tool - VMAT](https://vmat.predictivelabs.ai)** - manufacturing analysis and bioreactor optimization tool for a US vaccine biopharma Vaxart [(NASDAQ:VXRT)](https://www.vaxart.com).
+- **[Longevity Supplements](https://longevity-supplements.streamlit.app)** - visualization tool for longevity supplement efficacy.
+- **[Personal Health Monitoring System](https://kaljuvee-phms.streamlit.app/)** - sample platform to provide real-time health monitoring and personalized interventions using advanced AI technology, integrating data from various sources to provide comprehensive health insights and timely alerts.
+-   
+## Insurance Claim and Invoice Fraud Detector
+
+- **[Insurance Fraud Detector](https://if-insurance-demo.streamlit.app/)** - processes insurance claims and invoices to detect possible fraud.
+
+## Sales, Ecommerce and Advertising
+
+- **[ABC Kliima Product Catalogue Chat](https://abc-kliima-ai.streamlit.app)** - a simple chat demonstrating how one can query product catalogue on the fly.
+- **[Furniture Compay AI CRM](https://kalla-moobel-ai-demo.streamlit.app/)** - this application helps furniture manufacturers automate the RFQ (Request for Quote) process by analyzing project specifications and generating detailed cost estimates.
+- 
+## Generative AI and ML
+
 - **[PDME Arena](https://pdme-arena.streamlit.app)** - prompt-driven LLM evaluation tool.
 - **[DataGuru](https://dataguru.streamlit.app)** - simple tool to perform typical Excel operations such as data merging.
 - **[SQL God](https://sql-god.streamlit.app)** - natural language SQL generator that inspects your database schema and assists with SQL queries.
@@ -47,8 +65,6 @@ Previous roles in quantitative analysis, trading and risk management included po
 - **[Youtube summarizer](https://ytabstract.streamlit.app)** - simple tool to summarize Youtube content.
 - **[Incident Analysis](https://incident-analysis.streamlit.app)** - RAG fine tuning framework using synthetic safety incident data.
 - **[LegalGen](https://legalgen.streamlit.app)** - a simple tool to analyse and adopt legal document content.
-- **[IPOGate](https://ipogate.streamlit.app)** - platform to generate IPO documentation / prospectus samples.
-- **[Vaxart Manufacturing Analysis Tool - VMAT](https://vmat.predictivelabs.ai)** - manufacturing analysis and bioreactor optimization tool for a US vaccine biopharma Vaxart [(NASDAQ:VXRT)](https://www.vaxart.com).
 
 ### Startups
 - **[Mentastic](https://www.mentastic.me)** (2024 - Present): Co-founder / Chief AI Officer (CAIO)
