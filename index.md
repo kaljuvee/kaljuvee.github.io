@@ -1,10 +1,7 @@
 ## Professional Bio
+Julian Kaljuvee is a Director of Predictive Labs Ltd, an AI and Data Science consultancy, and consulting AI Engineer at Microsoft within the Industry Solutions Delivery (ISD) group. He has delivered several AI-focused projects for international clients across a wide range of sectors, including semiconductors (ARM Holdings, NASDAQ: ARM), biotech (Vaxart Inc., NASDAQ: VXRT), and financial services (London Stock Exchange Group, LSE: LSEG), Morningstar (NASDAQ: MORN), Anglo American (LSE:AAL), as well as ADNOC (Abu Dhabi National Oil Company), among others.
 
-Julian Kaljuvee is a Director of Predictive Labs Ltd, an AI and Data Science consultancy, and has delivered several AI-focused projects for international clients across a wide range of sectors, including semiconductors (ARM Holdings, NASDAQ: ARM), biotech (Vaxart Inc., NASDAQ: VXRT), and financial services (London Stock Exchange Group, LSE: LSEG; Morningstar, NASDAQ: MORN), as well as Microsoft (NASDAQ: MSFT), among others.
-
-Julian's professional background is in investment banking in New York and London (Goldman Sachs, Morgan Stanley, UBS, JPMorgan). He has also been active in the fintech startup sector, co-founding several of the first VC-backed lending marketplaces in Europe, including Bondora.com (consumer loans), EstateGuru (real estate loans), and Investly (invoice financing). Most recently, he has also become an advisor to Zuvu.ai, a blockchain-based AI agent marketplace.
-
-He holds a bachelor's degree in applied mathematics from Harvard University in Cambridge, Massachusetts, USA, and has studied probability theory and statistics at the master's level at Columbia University in New York, NY, USA.
+Julian's early professional background was in investment banking in New York and London (Goldman Sachs, Morgan Stanley, UBS, JPMorgan), and he holds a bachelor's degree in applied mathematics from Harvard University in Cambridge, Massachusetts, USA, and has studied probability theory and statistics at the master's level at Columbia University in New York, NY.
 
 ### Professional Experience
 
