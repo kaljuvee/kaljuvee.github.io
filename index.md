@@ -27,41 +27,63 @@ Previous roles in quantitative analysis, trading and risk management included po
 
 
 ### Projects and Tools
-#### Finance
-- **[Finespresso](https://research.finespresso.org)** - AI-driven financial news alerts for capital markets.
-- **[IPOGate](https://ipogate.streamlit.app)** - platform to generate IPO documentation / prospectus samples.
-- **[Macrohive News LLM](https://macrohive.predictivelabs.ai)** - AI-generated signals based on macroeconomic news.
-- **[Art Index](https://artindex.streamlit.app)** - visualizing publicly available art auction prices globally.
-- **[Land Index](https://landindex.streamlit.app)** - visualizing land prices in Estonia.
-  
-## Biotech and Healthtech
 
-- **[Longevity Supplements](https://longevity-supplements.streamlit.app)** - visualization tool for longevity supplement efficacy.
-- **[Mentastic](https://www.mentastic.me)** - AI-driven multi-modal platform for mental wellbeing and interventions.
-- **[Vaxart Manufacturing Analysis Tool - VMAT](https://vmat.predictivelabs.ai)** - manufacturing analysis and bioreactor optimization tool for a US vaccine biopharma Vaxart [(NASDAQ:VXRT)](https://www.vaxart.com).
-- **[Longevity Supplements](https://longevity-supplements.streamlit.app)** - visualization tool for longevity supplement efficacy.
-- **[Personal Health Monitoring System](https://kaljuvee-phms.streamlit.app/)** - sample platform to provide real-time health monitoring and personalized interventions using advanced AI technology, integrating data from various sources to provide comprehensive health insights and timely alerts.
- 
-## Insurance Claim and Invoice Fraud Detector
-
-- **[Insurance Fraud Detector](https://if-insurance-demo.streamlit.app/)** - processes insurance claims and invoices to detect possible fraud.
-
-## Sales, Ecommerce and Advertising
-
-- **[ABC Kliima Product Catalogue Chat](https://abc-kliima-ai.streamlit.app)** - a simple chat demonstrating how one can query product catalogue on the fly.
-- **[Furniture Compay AI CRM](https://kalla-moobel-ai-demo.streamlit.app/)** - this application helps furniture manufacturers automate the RFQ (Request for Quote) process by analyzing project specifications and generating detailed cost estimates.
-
-## Generative AI and ML
-
-- **[PDME Arena](https://pdme-arena.streamlit.app)** - prompt-driven LLM evaluation tool.
-- **[DataGuru](https://dataguru.streamlit.app)** - simple tool to perform typical Excel operations such as data merging.
-- **[SQL God](https://sql-god.streamlit.app)** - natural language SQL generator that inspects your database schema and assists with SQL queries.
-- **[MMM Analysis Tool](https://mmm-analyser.streamlit.app)** - Marketing Mix Model (MMM) analysis tool.
-- **[Metropolitan Hastings vs Baysian Regression Demo](https://mhmc-demo.streamlit.app/)** - an interactive application demonstrates two key concepts in Bayesian statistics
-- **[Transcriber](https://transcriber.streamlit.app)** - simple audio transcriber.
-- **[Youtube summarizer](https://ytabstract.streamlit.app)** - simple tool to summarize Youtube content.
-- **[Incident Analysis](https://incident-analysis.streamlit.app)** - RAG fine tuning framework using synthetic safety incident data.
-- **[LegalGen](https://legalgen.streamlit.app)** - a simple tool to analyse and adopt legal document content.
+- **A2A_Mcp Example** - An example showing how A2A and MCP can be used together ([GitHub](https://github.com/kaljuvee/a2a_mcp-example))
+- **[Alpha Agents](https://lohusalucap.vercel.app)** ([GitHub](https://github.com/predictivelabsai/alpha-agents))
+- **Artline** - A Deep Learning based project for creating line art portraits. ([GitHub](https://github.com/kaljuvee/ArtLine))
+- **Azureai Incidents** - Sample incident analysis engine ([GitHub](https://github.com/kaljuvee/azureai-incidents))
+- **Bsv Ai** - A message agent simulator ([GitHub](https://github.com/kaljuvee/bsv-ai))
+- **Bybit Smm** - bybit simple market maker ([GitHub](https://github.com/kaljuvee/bybit-smm))
+- **[Cape Demo](https://cape-demo.streamlit.app/)** - Cyclically Adjusted Price to Earnings (CAPE) Analysis Demo ([GitHub](https://github.com/kaljuvee/cape-demo))
+- **[Company Scout](https://companyresearcher.exa.ai)** - Company Researcher tool helps you instantly understand any company inside out. ([GitHub](https://github.com/kaljuvee/company-scout))
+- **Components Hub** - An automated hub of Streamlit components ([GitHub](https://github.com/kaljuvee/components-hub))
+- **[Credio Ai](https://credio-ai.vercel.app)** - Professional Next.js landing page for Credio AI - AI-powered lending as a service platform ([GitHub](https://github.com/kaljuvee/credio-ai))
+- **[Credit Scoring](https://credit-scoring-demo.streamlit.app/)** - Streamlit Credit Scoring Demo ([GitHub](https://github.com/kaljuvee/credit-scoring))
+- **Docquery** - An easy way to extract information from documents ([GitHub](https://github.com/kaljuvee/docquery))
+- **Documentgpt** - DocumentGPT is a web application that allows you to chat over your research document using OpenAI's chat API and perform semantic search using vector databases. This tool provides a seamless interface for interacting with your research document, exploring search results, and engaging in a conversation with an AI chatbot. ([GitHub](https://github.com/kaljuvee/DocumentGPT))
+- **Estateguru** - EstateGuru scorecards ([GitHub](https://github.com/kaljuvee/estateguru))
+- **[Exa Kg Demo](https://exa-kg-demo.streamlit.app/)** - Knowledge Graph with Search ([GitHub](https://github.com/kaljuvee/exa-kg-demo))
+- **[Finespresso Modelling](https://kaljuvee-predictivetrade.streamlit.app/)** - Finespresso / Predictive Trade Modelling and Backtesting ([GitHub](https://github.com/kaljuvee/finespresso-modelling))
+- **[Finespresso Web](https://research.finespresso.org)** - Finespresso Web ([GitHub](https://github.com/predictivelabsai/finespresso-web))
+- **[Finsight](https://finsight-report.streamlit.app/)** - FinSight - Financial Insights at Your Fingertip: FinSight is a cutting-edge AI assistant tailored for portfolio managers, investors, and finance enthusiasts. It streamlines the process of gaining crucial insights and summaries about a company in a user-friendly manner. ([GitHub](https://github.com/kaljuvee/finsight))
+- **[Flask Mmg](https://flask-mmg.onrender.com)** ([GitHub](https://github.com/kaljuvee/flask-mmg))
+- **Furniture Rfq Bom** - AI-based CRM system for furniture company with RFQ processing and BOM generation ([GitHub](https://github.com/kaljuvee/furniture-rfq-bom))
+- **[Google Graph Rag](https://gcp-graph-rag.streamlit.app/)** - Google Graph RAG MVP - Advanced RAG methods with Google Cloud integration ([GitHub](https://github.com/kaljuvee/google-graph-rag))
+- **[Hange](https://hange-ai.vercel.app)** ([GitHub](https://github.com/kaljuvee/hange))
+- **[Hedge Fund Index](https://hedge-fund-index.streamlit.app/)** - Hedge Fund Index ([GitHub](https://github.com/kaljuvee/hedge-fund-index))
+- **Infinite_Games** - A subnet dedicated to the prediction of future events.  ([GitHub](https://github.com/kaljuvee/infinite_games))
+- **[Insurance Demo](https://insurance-claims-analysis.streamlit.app/)** - Sample Insurance Claims Analyser ([GitHub](https://github.com/kaljuvee/insurance-demo))
+- **Ipo Analytics Global** - Global IPO Analytics Platform with 70 exchanges, regional filtering (APAC/EMEA/Americas), AI commentary, and real-time news integration ([GitHub](https://github.com/kaljuvee/ipo-analytics-global))
+- **[Ipomap](https://www.ipomap.dev)** - Global IPO Map ([GitHub](https://github.com/kaljuvee/ipomap))
+- **[Kafka To Vectordb](https://kafka-vectordb.streamlit.app/)** - Kafka VectorDB Pipeline ([GitHub](https://github.com/kaljuvee/kafka-to-vectordb))
+- **Kaljuvee.Github.Io** - Julian Kaljuvee ([GitHub](https://github.com/kaljuvee/kaljuvee.github.io))
+- **[Knowledge Graph](https://knowledge-graph-demo.streamlit.app/)** - Knowledge Graph Demo ([GitHub](https://github.com/kaljuvee/knowledge-graph))
+- **[Knowledge_Gpt](https://knowledgegpt.streamlit.app/)** - Accurate answers and instant citations for your documents. ([GitHub](https://github.com/kaljuvee/knowledge_gpt))
+- **Linkedin Easy Apply Bot** - Automate the application process on LinkedIn ([GitHub](https://github.com/kaljuvee/LinkedIn-Easy-Apply-Bot))
+- **[Liquidround Landing](https://liquidround-landing.vercel.app)** ([GitHub](https://github.com/kaljuvee/liquidround-landing))
+- **Lora Demo** - Low Rank Adaption Fine Tuning Demo ([GitHub](https://github.com/kaljuvee/lora-demo))
+- **Macrohive Code** - Private repo for code only ([GitHub](https://github.com/kaljuvee/macrohive-code))
+- **Manyfold** - 🧬 ManyFold: An efficient and flexible library for training and validating protein folding models ([GitHub](https://github.com/kaljuvee/manyfold))
+- **[Mlflow](https://mlflow.finespresso.org)** - MLFlow ([GitHub](https://github.com/predictivelabsai/mlflow))
+- **[Mli Rag Demo](https://mli-rag-demo.streamlit.app)** - AI driven multi-let industrial (MLI) analytics platform demo ([GitHub](https://github.com/kaljuvee/mli-rag-demo))
+- **[Moleculestm](https://chao1224.github.io/MoleculeSTM)** - Multi-modal Molecule Structure-text Model for Text-based Editing and Retrieval, Nat Mach Intell 2023 (https://www.nature.com/articles/s42256-023-00759-6) ([GitHub](https://github.com/kaljuvee/MoleculeSTM))
+- **[Nestor](https://nestor-lemon.vercel.app)** - NESTOR Ambassador Landing Page - Tokenized Real-World Assets Platform ([GitHub](https://github.com/kaljuvee/nestor))
+- **[News Ad Generation](https://news-ad-generator.streamlit.app/)** - News-Based Ad Generator - Your AI Based Ad Agency ([GitHub](https://github.com/kaljuvee/news-ad-generation))
+- **[Open Gemini Canvas](https://copilot-kit-deepmind.vercel.app)** ([GitHub](https://github.com/kaljuvee/open-gemini-canvas))
+- **[Options Guru](https://options-guru.streamlit.app)** - Options Pricing Demo ([GitHub](https://github.com/kaljuvee/options-guru))
+- **Outlier Capital** - AI-Powered Stock Selection & Backtesting Platform ([GitHub](https://github.com/kaljuvee/outlier-capital))
+- **[Personal Health Monitoring System](https://kaljuvee-phms.streamlit.app/)** - Personal Health Monitoring Demo App ([GitHub](https://github.com/kaljuvee/personal-health-monitoring-system))
+- **[Polygon Mcp](https://polygon-mcp.streamlit.app/)** - Polygon.io AI Chat Demo ([GitHub](https://github.com/kaljuvee/polygon-mcp))
+- **Rag Agents** - Build ChatGPT over your data, all with natural language ([GitHub](https://github.com/kaljuvee/rag-agents))
+- **[Scrapegraph Lablabai Hackathon](https://scrapegraph-ai-demo.streamlit.app/)** - Code for the streamlit demo of Scrapegraph-ai for GPT4-hackaton ([GitHub](https://github.com/kaljuvee/Scrapegraph-LabLabAI-Hackathon))
+- **Smartfab** - Exploratory data analysis for manufacturing ([GitHub](https://github.com/kaljuvee/smartfab))
+- **[Steinbock Digital](https://steinbock-digital.vercel.app)** - Steinbock Digital - Sustainable Technology Solutions MVP ([GitHub](https://github.com/kaljuvee/steinbock-digital))
+- **[Streamlitantdcomponentsdemo](https://nicedouble-streamlitantdcomponentsdemo-app-middmy.streamlit.app/)** - Streamlit-antd-components demo app ([GitHub](https://github.com/kaljuvee/StreamlitAntdComponentsDemo))
+- **Sumcast** - Podcast summariser ([GitHub](https://github.com/kaljuvee/sumcast))
+- **[Temporal Knowledge Graph](https://temporal-knowledge-graph.streamlit.app/)** - OpenAI Temporal Agent Demo ([GitHub](https://github.com/kaljuvee/temporal-knowledge-graph))
+- **[Tendly Search](https://tendly-search.streamlit.app/)** - Tendly Search Demo ([GitHub](https://github.com/kaljuvee/tendly-search))
+- **Web Ui** - Run AI Agent in your browser. ([GitHub](https://github.com/kaljuvee/web-ui))
+- **Ytabstract** - Summarizes Youtube videos ([GitHub](https://github.com/kaljuvee/ytabstract))
 
 ### Startups
 - **[Mentastic](https://www.mentastic.me)** (2024 - Present): Co-founder / Chief AI Officer (CAIO)
