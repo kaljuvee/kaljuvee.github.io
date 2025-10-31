@@ -29,7 +29,6 @@ Previous roles in quantitative analysis, trading and risk management included po
 ### Projects and Tools
 
 - **A2A_Mcp Example** - An example showing how A2A and MCP can be used together ([GitHub](https://github.com/kaljuvee/a2a_mcp-example))
-- **[Alpha Agents](https://lohusalucap.vercel.app)** ([GitHub](https://github.com/predictivelabsai/alpha-agents))
 - **Artline** - A Deep Learning based project for creating line art portraits. ([GitHub](https://github.com/kaljuvee/ArtLine))
 - **Azureai Incidents** - Sample incident analysis engine ([GitHub](https://github.com/kaljuvee/azureai-incidents))
 - **Bsv Ai** - A message agent simulator ([GitHub](https://github.com/kaljuvee/bsv-ai))
@@ -42,11 +41,9 @@ Previous roles in quantitative analysis, trading and risk management included po
 - **Docquery** - An easy way to extract information from documents ([GitHub](https://github.com/kaljuvee/docquery))
 - **Documentgpt** - DocumentGPT is a web application that allows you to chat over your research document using OpenAI's chat API and perform semantic search using vector databases. This tool provides a seamless interface for interacting with your research document, exploring search results, and engaging in a conversation with an AI chatbot. ([GitHub](https://github.com/kaljuvee/DocumentGPT))
 - **Estateguru** - EstateGuru scorecards ([GitHub](https://github.com/kaljuvee/estateguru))
-- **[Exa Kg Demo](https://exa-kg-demo.streamlit.app/)** - Knowledge Graph with Search ([GitHub](https://github.com/kaljuvee/exa-kg-demo))
 - **[Finespresso Modelling](https://kaljuvee-predictivetrade.streamlit.app/)** - Finespresso / Predictive Trade Modelling and Backtesting ([GitHub](https://github.com/kaljuvee/finespresso-modelling))
 - **[Finespresso Web](https://research.finespresso.org)** - Finespresso Web ([GitHub](https://github.com/predictivelabsai/finespresso-web))
 - **[Finsight](https://finsight-report.streamlit.app/)** - FinSight - Financial Insights at Your Fingertip: FinSight is a cutting-edge AI assistant tailored for portfolio managers, investors, and finance enthusiasts. It streamlines the process of gaining crucial insights and summaries about a company in a user-friendly manner. ([GitHub](https://github.com/kaljuvee/finsight))
-- **[Flask Mmg](https://flask-mmg.onrender.com)** ([GitHub](https://github.com/kaljuvee/flask-mmg))
 - **Furniture Rfq Bom** - AI-based CRM system for furniture company with RFQ processing and BOM generation ([GitHub](https://github.com/kaljuvee/furniture-rfq-bom))
 - **[Google Graph Rag](https://gcp-graph-rag.streamlit.app/)** - Google Graph RAG MVP - Advanced RAG methods with Google Cloud integration ([GitHub](https://github.com/kaljuvee/google-graph-rag))
 - **[Hange](https://hange-ai.vercel.app)** ([GitHub](https://github.com/kaljuvee/hange))
@@ -67,7 +64,6 @@ Previous roles in quantitative analysis, trading and risk management included po
 - **[Mlflow](https://mlflow.finespresso.org)** - MLFlow ([GitHub](https://github.com/predictivelabsai/mlflow))
 - **[Mli Rag Demo](https://mli-rag-demo.streamlit.app)** - AI driven multi-let industrial (MLI) analytics platform demo ([GitHub](https://github.com/kaljuvee/mli-rag-demo))
 - **[Moleculestm](https://chao1224.github.io/MoleculeSTM)** - Multi-modal Molecule Structure-text Model for Text-based Editing and Retrieval, Nat Mach Intell 2023 (https://www.nature.com/articles/s42256-023-00759-6) ([GitHub](https://github.com/kaljuvee/MoleculeSTM))
-- **[Nestor](https://nestor-lemon.vercel.app)** - NESTOR Ambassador Landing Page - Tokenized Real-World Assets Platform ([GitHub](https://github.com/kaljuvee/nestor))
 - **[News Ad Generation](https://news-ad-generator.streamlit.app/)** - News-Based Ad Generator - Your AI Based Ad Agency ([GitHub](https://github.com/kaljuvee/news-ad-generation))
 - **[Open Gemini Canvas](https://copilot-kit-deepmind.vercel.app)** ([GitHub](https://github.com/kaljuvee/open-gemini-canvas))
 - **[Options Guru](https://options-guru.streamlit.app)** - Options Pricing Demo ([GitHub](https://github.com/kaljuvee/options-guru))
