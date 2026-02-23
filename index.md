@@ -83,6 +83,8 @@ Previous roles in quantitative analysis, trading and risk management included po
 - **Ytabstract** - Summarizes Youtube videos ([GitHub](https://github.com/kaljuvee/ytabstract))
 
 ### Startups
+- **[Tendly](https://www.tendy.co.uk)** (2025 - Present): Investor / Advisor
+  - Part of a team building a AI-driven, cross-border public tender and procurement search and bidding engine. 
 - **[Mentastic](https://www.mentastic.me)** (2024 - Present): Co-founder / Chief AI Officer (CAIO)
   - Part of a team building a multi-modal agentic AI platform to improve mental well being and to design interventions.
 - **[Bondora](https://www.bondora.com)** (2007 - Present): Co-founder / Non-executive advisor
