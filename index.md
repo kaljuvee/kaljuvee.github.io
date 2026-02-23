@@ -1,7 +1,8 @@
 ## Professional Bio
-Julian Kaljuvee is a Director of Predictive Labs Ltd, an AI and Data Science consultancy, and consulting AI Engineer at Microsoft within the Industry Solutions Delivery (ISD) group. He has delivered several AI-focused projects for international clients across a wide range of sectors, including semiconductors (ARM Holdings, NASDAQ: ARM), biotech (Vaxart Inc., NASDAQ: VXRT), and financial services (London Stock Exchange Group, LSE: LSEG), Morningstar (NASDAQ: MORN), Anglo American (LSE:AAL), as well as ADNOC (Abu Dhabi National Oil Company), among others.
+Julian Kaljuvee is a Director of Predictive Labs Ltd, an AI and Data Science consultancy based in the UK, and an AI engineer at Indurent, a £6bn+ Blackstone portfolio company where his responsibilities include supporting platform scale-up from a £700m REIT, supporting a multi-billion-pound merger integration, and embedding production AI capabilities across core business and investment functions. In his previous role as an AI Engineer with the Industry Solutions Delivery (ISD) group at Microsoft, he delivered several AI-focused projects for international clients across a wide range of sectors, including semiconductors (ARM Holdings, NASDAQ: ARM), biotech (Vaxart Inc., NASDAQ: VXRT), and financial services (London Stock Exchange Group, LSE: LSEG), Morningstar (NASDAQ: MORN), Anglo American (LSE:AAL), as well as ADNOC (Abu Dhabi National Oil Company), among others.
 
 Julian's early professional background was in investment banking in New York and London (Goldman Sachs, Morgan Stanley, UBS, JPMorgan), and he holds a bachelor's degree in applied mathematics from Harvard University in Cambridge, Massachusetts, USA, and has studied probability theory and statistics at the master's level at Columbia University in New York, NY.
+
 
 ### Professional Experience
 
